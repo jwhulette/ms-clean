@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "MS-Clean",
+        "command": "ms-clean:replace"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "MS-Clean",
+          "submenu": [
+            {
+              "label": "Replace",
+              "command": "ms-clean:replace"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
