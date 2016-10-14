@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-'": "ms-clean:toggle"
+    "ctrl-alt-'": "ms-clean:replace"
   }
 }

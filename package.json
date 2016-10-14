@@ -1,15 +1,15 @@
 {
   "name": "ms-clean",
-  "main": "./lib/ms-clean",
+  "main": "./lib/ms-clean.coffee",
   "version": "0.0.1",
-  "description": "Replace MS smart quotes with ascii qoutes",
+  "description": "Replace MS smart quotes with ascii quotes",
   "keywords": [
     "Microsoft", "Word", "Smart Quotes"
   ],
   "activationCommands": {
-    "atom-workspace": "ms-clean:toggle"
+    "atom-workspace": "ms-clean:replace"
   },
-  "repository": "https://github.com/atom/ms-clean",
+  "repository": "https://github.com/jwhulette/ms-clean",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
