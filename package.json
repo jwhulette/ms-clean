@@ -1,7 +1,7 @@
 {
   "name": "ms-clean",
   "main": "./lib/ms-clean.coffee",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Replace MS smart quotes with ascii quotes",
   "keywords": [
     "Microsoft",
